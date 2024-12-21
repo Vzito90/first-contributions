@@ -298,6 +298,7 @@
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
 - Lance Xie
+- [vzito90](https://github.com/Vzito90)
 - [Mannaseh Merakanapalli](https://github.com/MannasehM)
 - [Chris Bruce](https://github.com/brucec5)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
