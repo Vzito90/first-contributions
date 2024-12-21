@@ -67,6 +67,7 @@
 [Jewel Geea George] (https://github.com/)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Liquuid1](https://github.com/Liquuid1)
+- [vzito90](https://github.com/Vzito90)
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Ajay Dongare](https://github.com/GluconicAcid)
